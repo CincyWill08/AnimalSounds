@@ -1,0 +1,1 @@
+c:\repos\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.csproj.CoreCompileInputs.cache

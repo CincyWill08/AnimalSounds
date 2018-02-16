@@ -1,0 +1,2 @@
+C:\repos\AnimalSounds\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+C:\repos\AnimalSounds\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
